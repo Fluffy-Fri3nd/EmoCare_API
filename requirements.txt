@@ -1,0 +1,18 @@
+# FastAPI untuk server
+fastapi==0.100.0
+uvicorn==0.23.0
+
+# Untuk menangani variabel lingkungan
+python-dotenv
+
+# Untuk komunikasi dengan OpenAI API
+openai==0.28
+
+# Transformers dan PyTorch untuk pemrosesan model NLP
+transformers
+torch
+
+# Untuk memproses dan membersihkan teks
+emoji
+beautifulsoup4
+lxml
